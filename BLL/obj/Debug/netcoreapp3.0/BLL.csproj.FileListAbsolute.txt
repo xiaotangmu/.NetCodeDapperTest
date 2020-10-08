@@ -1,0 +1,15 @@
+E:\VsCode\LoginApp\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+E:\VsCode\LoginApp\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+E:\VsCode\LoginApp\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+E:\VsCode\LoginApp\BLL\bin\Debug\netcoreapp3.0\Common.dll
+E:\VsCode\LoginApp\BLL\bin\Debug\netcoreapp3.0\DapperConn.dll
+E:\VsCode\LoginApp\BLL\bin\Debug\netcoreapp3.0\Model.dll
+E:\VsCode\LoginApp\BLL\bin\Debug\netcoreapp3.0\DapperConn.pdb
+E:\VsCode\LoginApp\BLL\bin\Debug\netcoreapp3.0\Model.pdb
+E:\VsCode\LoginApp\BLL\bin\Debug\netcoreapp3.0\Common.pdb
+E:\VsCode\LoginApp\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+E:\VsCode\LoginApp\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+E:\VsCode\LoginApp\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+E:\VsCode\LoginApp\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+E:\VsCode\LoginApp\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+E:\VsCode\LoginApp\BLL\obj\Debug\netcoreapp3.0\BLL.pdb

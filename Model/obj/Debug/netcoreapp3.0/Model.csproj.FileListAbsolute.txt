@@ -1,0 +1,8 @@
+E:\VsCode\LoginApp\Model\bin\Debug\netcoreapp3.0\Model.deps.json
+E:\VsCode\LoginApp\Model\bin\Debug\netcoreapp3.0\Model.dll
+E:\VsCode\LoginApp\Model\bin\Debug\netcoreapp3.0\Model.pdb
+E:\VsCode\LoginApp\Model\obj\Debug\netcoreapp3.0\Model.csprojAssemblyReference.cache
+E:\VsCode\LoginApp\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfoInputs.cache
+E:\VsCode\LoginApp\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfo.cs
+E:\VsCode\LoginApp\Model\obj\Debug\netcoreapp3.0\Model.dll
+E:\VsCode\LoginApp\Model\obj\Debug\netcoreapp3.0\Model.pdb
